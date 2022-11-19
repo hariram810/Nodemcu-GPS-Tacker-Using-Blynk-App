@@ -1,20 +1,8 @@
 # Nodemcu-GPS-Tacker-Using-Blynk-App
 
-![1](https://user-images.githubusercontent.com/118633170/202870561-ddec10e7-98a3-436a-b7e3-6070c559c415.png)
-![2](https://user-images.githubusercontent.com/118633170/202870562-d31b8fb3-8a98-41bc-8f0a-dd491242556c.png)
-![3](https://user-images.githubusercontent.com/118633170/202870566-867e7689-ba19-40b3-b3c5-9a218abf15ef.png)
-![4](https://user-images.githubusercontent.com/118633170/202870567-8f79ed3c-8943-4a42-bfa7-38e37305b04c.png)
-![5](https://user-images.githubusercontent.com/118633170/202870568-80553649-1a66-4fdf-80a7-c72a48e0d8b5.png)
-
-
-This is a nodemcu GPS Tracker for tracking simple devices from theft and other possible things can be fixed on a vehicle also with good internet facility by a dongle or some sort of network provider
-
-![11](https://user-images.githubusercontent.com/118633170/202870599-c9bf1f51-2906-4fda-a513-c21699b73156.png)
-![22](https://user-images.githubusercontent.com/118633170/202870602-1f7356fd-1060-4849-8442-e11e513f6a98.png)
 ![33](https://user-images.githubusercontent.com/118633170/202870604-d3fbd955-82b6-4171-82f0-1daa2773b071.png)
 
-f you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
-
+if you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
 
 Please use the following link to register an account in JLCPCB
@@ -32,13 +20,11 @@ Pcb Manufacturing
 6 layers
 
 
-
 PCBA Services
 
 JLCPCB have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
 
 Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you peace-of-mind that you won't run into any last minute part shortages.
-
 
 
 3d printing
@@ -47,6 +33,14 @@ Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you p
 SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
 
 JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
+
+![1](https://user-images.githubusercontent.com/118633170/202870561-ddec10e7-98a3-436a-b7e3-6070c559c415.png)
+![2](https://user-images.githubusercontent.com/118633170/202870562-d31b8fb3-8a98-41bc-8f0a-dd491242556c.png)
+
+This is a nodemcu GPS Tracker for tracking simple devices from theft and other possible things can be fixed on a vehicle also with good internet facility by a dongle or some sort of network provider
+
+![11](https://user-images.githubusercontent.com/118633170/202870599-c9bf1f51-2906-4fda-a513-c21699b73156.png)
+![22](https://user-images.githubusercontent.com/118633170/202870602-1f7356fd-1060-4849-8442-e11e513f6a98.png)
 
 
 A GPS tracker is a navigation device generally on a vehicle, asset, person, or animal that uses the Global Positioning System (GPS) to determine its movement and geographic position. GPS tracking devices send special satellite signals that are processed by a receiver. Locations are stored in the tracking unit or transmitted to an Internet-connected device using the cellular network or WiFi worldwide. GPS trackers connect to a series of satellites to determine location. The tracker uses a process called trilateration which uses the position of three or more satellites from the Global Navigation Satellite System (GNSS) network and their distance from them to determine latitude, longitude, elevation, and time.
@@ -64,6 +58,11 @@ The L86 is an ideal solution for wearable fitness devices due to its ultra-compa
 
 
 The L86 has a patch antenna on top measuring 16.0mm × 16.0mm × 6.45mm, with 66 acquisition channels and 22 tracking channels. It acquires and tracks satellites in the shortest time even at the indoor signal level. The module operates at 2.8V~4.3V with a typical power consumption of 20mA and in Standby mode power consumption is around 1.0mA. To learn more about the L86 GPS module, you can check the L86 Datasheet.
+
+![3](https://user-images.githubusercontent.com/118633170/202870566-867e7689-ba19-40b3-b3c5-9a218abf15ef.png)
+![4](https://user-images.githubusercontent.com/118633170/202870567-8f79ed3c-8943-4a42-bfa7-38e37305b04c.png)
+![5](https://user-images.githubusercontent.com/118633170/202870568-80553649-1a66-4fdf-80a7-c72a48e0d8b5.png)
+
 
 The Quectel L86/L80 GPS Module has 12 pins as shown in the image below.
 
