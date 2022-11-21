@@ -2,10 +2,10 @@
 
 ![33](https://user-images.githubusercontent.com/118633170/202870604-d3fbd955-82b6-4171-82f0-1daa2773b071.png)
 
-if you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
+if you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, [JLCPCB](https://jlcpcb.com) is one of the best company from shenzhen china they provide, PCB manufacturing, PCBA and 3D printing services to people in need, they provide good quality products in all sectors
 
 
-Please use the following link to register an account in JLCPCB
+Please use the following link to register an account in [JLCPCB](https://jlcpcb.com)
 
 https://jlcpcb.com/RNA
 
@@ -22,17 +22,18 @@ Pcb Manufacturing
 
 PCBA Services
 
-JLCPCB have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
+[JLCPCB](https://jlcpcb.com) have 350k+ Components In-stock. You don’t have to worry about parts sourcing, this helps you to save time and hassle, also keeps your costs down.
 
-Moreover, you can pre-order parts and hold the inventory at JLCPCB, giving you peace-of-mind that you won't run into any last minute part shortages.
+Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlcpcb.com), giving you peace-of-mind that you won't run into any last minute part shortages.
 
 
 3d printing
 
 
-SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes [JLCPCB](https://jlcpcb.com) better companion among other manufactures try out [JLCPCB](https://jlcpcb.com) 3D Printing servies
 
-JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
+[JLCPCB](https://jlcpcb.com) 3D Printing starts at $1 &Get $54 Coupons for new users
+
 
 ![1](https://user-images.githubusercontent.com/118633170/202870561-ddec10e7-98a3-436a-b7e3-6070c559c415.png)
 ![2](https://user-images.githubusercontent.com/118633170/202870562-d31b8fb3-8a98-41bc-8f0a-dd491242556c.png)
